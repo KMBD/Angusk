@@ -1,0 +1,54 @@
+
+.container{
+	text-align: center;
+}
+.skillscontainer{
+	text-align: center;
+}
+.aboutme{
+	text-align: center;
+}
+
+.aboutme p{
+	margin-right: 20%;
+	margin-left: 20%;
+}
+.exp{
+	display:table;
+	width:100%;
+
+}
+.container1{
+	text-align: center;
+	width:40%;
+	float:left;
+}
+.container2{
+	width:60%;
+	float:right;
+}
+
+.work p,h4{
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-bottom: 5%;
+}
+
+.work1 p{
+	margin-right: 20%;
+	margin-left: 20%;
+	margin-bottom: 5%;
+}
+
+
+ul {
+  	display: inline-block;
+  	vertical-align: top;
+  	padding-left: 0;
+  	margin:10%;
+}
+li {
+	margin-top:5%;
+	text-align: center;
+  	list-style: none;
+}
